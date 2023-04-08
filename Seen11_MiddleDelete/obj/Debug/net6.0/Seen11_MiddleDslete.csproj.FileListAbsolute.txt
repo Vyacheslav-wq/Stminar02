@@ -1,0 +1,15 @@
+C:\Users\Кот\Desktop\Seminar02\Seen11_MiddleDelete\obj\Debug\net6.0\Seen11_MiddleDslete.csproj.AssemblyReference.cache
+C:\Users\Кот\Desktop\Seminar02\Seen11_MiddleDelete\obj\Debug\net6.0\Seen11_MiddleDslete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кот\Desktop\Seminar02\Seen11_MiddleDelete\obj\Debug\net6.0\Seen11_MiddleDslete.AssemblyInfoInputs.cache
+C:\Users\Кот\Desktop\Seminar02\Seen11_MiddleDelete\obj\Debug\net6.0\Seen11_MiddleDslete.AssemblyInfo.cs
+C:\Users\Кот\Desktop\Seminar02\Seen11_MiddleDelete\obj\Debug\net6.0\Seen11_MiddleDslete.csproj.CoreCompileInputs.cache
+C:\Users\Кот\Desktop\Seminar02\Seen11_MiddleDelete\bin\Debug\net6.0\Seen11_MiddleDslete.exe
+C:\Users\Кот\Desktop\Seminar02\Seen11_MiddleDelete\bin\Debug\net6.0\Seen11_MiddleDslete.deps.json
+C:\Users\Кот\Desktop\Seminar02\Seen11_MiddleDelete\bin\Debug\net6.0\Seen11_MiddleDslete.runtimeconfig.json
+C:\Users\Кот\Desktop\Seminar02\Seen11_MiddleDelete\bin\Debug\net6.0\Seen11_MiddleDslete.dll
+C:\Users\Кот\Desktop\Seminar02\Seen11_MiddleDelete\bin\Debug\net6.0\Seen11_MiddleDslete.pdb
+C:\Users\Кот\Desktop\Seminar02\Seen11_MiddleDelete\obj\Debug\net6.0\Seen11_MiddleDslete.dll
+C:\Users\Кот\Desktop\Seminar02\Seen11_MiddleDelete\obj\Debug\net6.0\refint\Seen11_MiddleDslete.dll
+C:\Users\Кот\Desktop\Seminar02\Seen11_MiddleDelete\obj\Debug\net6.0\Seen11_MiddleDslete.pdb
+C:\Users\Кот\Desktop\Seminar02\Seen11_MiddleDelete\obj\Debug\net6.0\Seen11_MiddleDslete.genruntimeconfig.cache
+C:\Users\Кот\Desktop\Seminar02\Seen11_MiddleDelete\obj\Debug\net6.0\ref\Seen11_MiddleDslete.dll
