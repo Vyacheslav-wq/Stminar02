@@ -1,0 +1,15 @@
+C:\Users\Кот\Desktop\Seminar02\Seen14_Multiple\bin\Debug\net6.0\Seen14_Multiple.exe
+C:\Users\Кот\Desktop\Seminar02\Seen14_Multiple\bin\Debug\net6.0\Seen14_Multiple.deps.json
+C:\Users\Кот\Desktop\Seminar02\Seen14_Multiple\bin\Debug\net6.0\Seen14_Multiple.runtimeconfig.json
+C:\Users\Кот\Desktop\Seminar02\Seen14_Multiple\bin\Debug\net6.0\Seen14_Multiple.dll
+C:\Users\Кот\Desktop\Seminar02\Seen14_Multiple\bin\Debug\net6.0\Seen14_Multiple.pdb
+C:\Users\Кот\Desktop\Seminar02\Seen14_Multiple\obj\Debug\net6.0\Seen14_Multiple.csproj.AssemblyReference.cache
+C:\Users\Кот\Desktop\Seminar02\Seen14_Multiple\obj\Debug\net6.0\Seen14_Multiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кот\Desktop\Seminar02\Seen14_Multiple\obj\Debug\net6.0\Seen14_Multiple.AssemblyInfoInputs.cache
+C:\Users\Кот\Desktop\Seminar02\Seen14_Multiple\obj\Debug\net6.0\Seen14_Multiple.AssemblyInfo.cs
+C:\Users\Кот\Desktop\Seminar02\Seen14_Multiple\obj\Debug\net6.0\Seen14_Multiple.csproj.CoreCompileInputs.cache
+C:\Users\Кот\Desktop\Seminar02\Seen14_Multiple\obj\Debug\net6.0\Seen14_Multiple.dll
+C:\Users\Кот\Desktop\Seminar02\Seen14_Multiple\obj\Debug\net6.0\refint\Seen14_Multiple.dll
+C:\Users\Кот\Desktop\Seminar02\Seen14_Multiple\obj\Debug\net6.0\Seen14_Multiple.pdb
+C:\Users\Кот\Desktop\Seminar02\Seen14_Multiple\obj\Debug\net6.0\Seen14_Multiple.genruntimeconfig.cache
+C:\Users\Кот\Desktop\Seminar02\Seen14_Multiple\obj\Debug\net6.0\ref\Seen14_Multiple.dll
